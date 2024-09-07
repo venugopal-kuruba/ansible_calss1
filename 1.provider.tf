@@ -11,8 +11,8 @@ terraform {
     }
   }
   backend "s3" {
-    bucket         = "development-kururba"
-    key            = "ansible-kuruba.tfstate"
-    region         = "us-east-1"
+    bucket = "development-kururba"
+    key    = "ansible-kuruba.tfstate"
+    region = "us-east-1"
   }
 }
