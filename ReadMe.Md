@@ -38,3 +38,5 @@ ansible -i invfile pvt -m setup     (prints ansible_facts for client)
 
 
 
+
+
