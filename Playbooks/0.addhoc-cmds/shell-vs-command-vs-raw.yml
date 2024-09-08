@@ -10,6 +10,7 @@ Shell module is susceptible to command injection/shell injection.
 In contrast to shell module, command module runs the command(ping) directly with python 
 script. Unlike shell module, running commands can not use pipes and redirections. 
 It can be said that command module is more secure than shell module.
+
 ---
 - name: Testing SHELL & COMMAND & RAW Modules
   hosts: testserver01
