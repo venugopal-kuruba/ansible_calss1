@@ -15,19 +15,10 @@ amis = {
   us-east-1 = "ami-04feb50a0b3d86ad0" # Canonical, Ubuntu, 20.04 LTS, amd64 focal image
   us-east-2 = "ami-0430580de6244e02e" # Canonical, Ubuntu, 20.04 LTS, amd64 focal image
 }
-<<<<<<< Updated upstream
 projid    = "PHOENIX-123"
 imagename = "ami-0149b2da6ceec4bb0"
-<<<<<<< HEAD
 vpc_peering_id = "vpc-007f51fd1c800a117"
 vpc_peering_subnet_id = "subnet-049bac08488edd55f"
-=======
-vpc_peering_id = "vpc-07d94e87cccd64c09"
-vpc_peering_subnet_id = "subnet-0acb23bf4cefe37c3"
-=======
-projid                = "PHOENIX-123"
-imagename             = "ami-0149b2da6ceec4bb0"
-vpc_peering_id        = "vpc-007f51fd1c800a117"
-vpc_peering_subnet_id = "subnet-0b5a83338fe9e80b1"
->>>>>>> Stashed changes
->>>>>>> 5c7e2eb50ae11dcfb2cfa1d8a23ff860527fa572
+
+
+
