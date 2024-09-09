@@ -2,7 +2,7 @@
 #ansible-galaxy collection install community.mysql
 #ansible-galaxy install geerlingguy.mysql --force
 #ansible-galaxy collection install nginxinc.nginx_core
-#Default password can be updated in /.ansible/roles/geerlingguy.mysql/defaults/main.yml
+#Default password can be updated in /root/.ansible/roles/geerlingguy.mysql/defaults/main.yml
 #mysql_root_password: India@123456
 #mysql_root_password_update: true
 #ansible-vault encrypt_string 'India@123456' --name 'bob_db_password'
